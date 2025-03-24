@@ -1,2 +1,1 @@
-# Electric-Motor.github.io
-## ElectricMotor's blog
+# ElectricMotor's blog
