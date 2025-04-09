@@ -49,7 +49,7 @@
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    margin: 240px auto;
+    margin: 300px auto;
     font-size: 18px;
     max-width: 600px;
   }
@@ -58,9 +58,12 @@
     margin: 20px 0;
     padding: 10px;
     border-radius: 6px;
-    box-shadow: rgb(217 217 217) 0px 0px 10px 0px;;
+    /*box-shadow: rgb(217 217 217) 0px 0px 10px 0px;*/
   }
   
   a {
+    font-family: Microsoft JhengHei, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 140px;
     text-decoration: none;
+    color: black;
   }
