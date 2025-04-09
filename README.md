@@ -1,1 +1,0 @@
-# ElectricMotor's blog
